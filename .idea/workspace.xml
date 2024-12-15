@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04ed8509-05f6-4124-88b6-372ec8fa28de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Info.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Info.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE215Project/DictionAry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE215Project/DictionAry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE215Project/GameWin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE215Project/GameWin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE215Project/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE215Project/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE215Project/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE215Project/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE215Project/barchart.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE215Project/barchart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE215Project/entryException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE215Project/entryException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE215Project/userinfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE215Project/userinfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE215Project/wordle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE215Project/wordle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GameWin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameWin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,27 +36,34 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2R91rUp5WXCPxFaU6xQshhJSWyQ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Asus/IdeaProjects/CSE215Project/CSE215Project&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "JUnit.All in CSE215Project.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Program Files/Java/openlogic-openjdk-17.0.13+11-windows-x64",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "advanced.settings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Asus\IdeaProjects\CSE215Project\CSE215Project\src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="CSE215Project" />
@@ -54,9 +71,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="All in CSE215Project" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CSE215Project" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.All in CSE215Project" />
       </list>
     </recent_temporary>
   </component>

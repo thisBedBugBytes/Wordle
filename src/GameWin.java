@@ -107,6 +107,11 @@ public class GameWin extends wordle implements ActionListener, KeyListener {
                 if (!super.getWod().equals(sub.toString())) {
                     JOptionPane.showMessageDialog(border[2], "You lost ;-; The word was "+super.getWod(), "Next Time <3", JOptionPane.PLAIN_MESSAGE);
                     wrong++;
+                    }
+                else{
+                    JOptionPane.showMessageDialog(border[2], "You win!!!", "Done! <3", JOptionPane.PLAIN_MESSAGE);
+                    right++;
+                }
                     try {
                         user.reWrite(user.getPassword() + user.getUser_name(), right, wrong);
                     } catch (IOException ex) {
@@ -115,7 +120,7 @@ public class GameWin extends wordle implements ActionListener, KeyListener {
                     bar = new barchart("Wordle", user.getUser_name()+"'s Wordle Stats", right, wrong);
 
 
-                }
+
 
             } else if (idx != 4) {
                 JOptionPane.showMessageDialog(border[2], "Word needs to be 5 letters long!", "Problem", JOptionPane.PLAIN_MESSAGE);
